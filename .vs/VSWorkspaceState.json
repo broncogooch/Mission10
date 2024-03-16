@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\WebApplication1",
+    "\\Backend\\WebApplication1\\Controllers",
+    "\\Backend\\WebApplication1\\Models"
+  ],
+  "SelectedNode": "\\Backend\\WebApplication1\\Models\\BowlingLeagueContext.cs",
+  "PreviewInSolutionExplorer": false
+}
